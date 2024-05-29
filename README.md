@@ -16,7 +16,7 @@ npm install craco-workbox -S
 
 ## Usage
 
-1. Add the plugin into your craco.config.js;
+1. Add the plugin into your craco.config.cjs;
 
 ```javascript
 // craco.config.js
