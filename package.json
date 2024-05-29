@@ -3,8 +3,8 @@
   "version": "0.2.0",
   "description": "A simple craco plugin to override the workbox config in CRA2",
   "main": "lib/index.js",
-  "repository": "https://github.com/kevinsperrine/craco-workbox",
-  "author": "Kevin S. Perrine",
+  "repository": "https://github.com/bcattonsimply/craco-workbox-esm",
+  "author": "Ben Catton",
   "license": "MIT",
   "private": false,
   "scripts": {
